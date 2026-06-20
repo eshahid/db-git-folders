@@ -8,4 +8,8 @@ print('Ok, I am getting it now')
 
 # COMMAND ----------
 
+print("This is cell 3")
+
+# COMMAND ----------
+
 
